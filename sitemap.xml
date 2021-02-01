@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://pijiakang.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-02-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://pijiakang.github.io/tags/index.html</loc>
     
     <lastmod>2021-02-01</lastmod>
@@ -51,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://pijiakang.github.io/categories/index.html</loc>
-    
-    <lastmod>2021-01-26</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://pijiakang.github.io/about/index.html</loc>
     
     <lastmod>2021-01-26</lastmod>
@@ -81,7 +81,7 @@
 
   
   <url>
-    <loc>https://pijiakang.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://pijiakang.github.io/tags/%E8%B4%9F%E8%83%BD%E9%87%8F/</loc>
     <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -97,7 +97,7 @@
 
   
   <url>
-    <loc>https://pijiakang.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://pijiakang.github.io/categories/%E6%83%85%E6%84%9F/</loc>
     <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
